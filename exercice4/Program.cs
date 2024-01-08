@@ -8,6 +8,6 @@ Console.Write("Entrez votre prenom : ");
 Console.Write("Entrez votre âge : ");
         int age;
 
-Console.WriteLine($"Bonjour {nom} ! Vous avez {age} ans.");
+Console.WriteLine($"Bonjour {prenom} ! Vous avez {age} ans.");
 
 Console.ReadLine();
