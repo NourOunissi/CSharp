@@ -54,3 +54,5 @@ int, byte, decimal
 
 //suffixes
 var i = 0.5 f ; = float
+// groupement de chiffre 
+long l = 1_000_000_000
