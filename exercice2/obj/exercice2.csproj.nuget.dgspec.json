@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ounis\\Documents\\SLAM2023\\C#\\exercice1\\exercice1.csproj": {}
+    "C:\\Users\\Ounis\\Documents\\SLAM2023\\C#\\exercice2\\exercice2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ounis\\Documents\\SLAM2023\\C#\\exercice1\\exercice1.csproj": {
+    "C:\\Users\\Ounis\\Documents\\SLAM2023\\C#\\exercice2\\exercice2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ounis\\Documents\\SLAM2023\\C#\\exercice1\\exercice1.csproj",
-        "projectName": "exercice1",
-        "projectPath": "C:\\Users\\Ounis\\Documents\\SLAM2023\\C#\\exercice1\\exercice1.csproj",
+        "projectUniqueName": "C:\\Users\\Ounis\\Documents\\SLAM2023\\C#\\exercice2\\exercice2.csproj",
+        "projectName": "exercice2",
+        "projectPath": "C:\\Users\\Ounis\\Documents\\SLAM2023\\C#\\exercice2\\exercice2.csproj",
         "packagesPath": "C:\\Users\\Ounis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ounis\\Documents\\SLAM2023\\C#\\exercice1\\obj\\",
+        "outputPath": "C:\\Users\\Ounis\\Documents\\SLAM2023\\C#\\exercice2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ounis\\AppData\\Roaming\\NuGet\\NuGet.Config",

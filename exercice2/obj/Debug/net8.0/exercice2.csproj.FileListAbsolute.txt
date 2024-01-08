@@ -1,0 +1,15 @@
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\bin\Debug\net8.0\exercice2.exe
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\bin\Debug\net8.0\exercice2.deps.json
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\bin\Debug\net8.0\exercice2.runtimeconfig.json
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\bin\Debug\net8.0\exercice2.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\bin\Debug\net8.0\exercice2.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\obj\Debug\net8.0\exercice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\obj\Debug\net8.0\exercice2.AssemblyInfoInputs.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\obj\Debug\net8.0\exercice2.AssemblyInfo.cs
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\obj\Debug\net8.0\exercice2.csproj.CoreCompileInputs.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\obj\Debug\net8.0\exercice2.sourcelink.json
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\obj\Debug\net8.0\exercice2.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\obj\Debug\net8.0\refint\exercice2.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\obj\Debug\net8.0\exercice2.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\obj\Debug\net8.0\exercice2.genruntimeconfig.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\exercice2\obj\Debug\net8.0\ref\exercice2.dll
