@@ -10,4 +10,6 @@ dotnet --list-sdks = sdk
 céer un projet = dotnet new console -n exercice1
 cd exercice1 = aller dans
 dotnet run = 
+
+cd.. = revenir à la racine
 Depot pour travail sur c#
