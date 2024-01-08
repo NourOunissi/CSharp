@@ -15,4 +15,4 @@ Console.Write("Entrez votre âge : ");
 
 Console.WriteLine($"Bonjour {prenom} ! Vous avez {age} ans.");
 
-Console.ReadLine();
+Console.ReadKey();
