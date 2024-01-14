@@ -7,7 +7,7 @@ Console.Write("Entrez votre prenom : ");
 
 Console.Write("Entrez votre âge : ");
         int age;
-         while (!int.TryParse(Console.ReadLine(), out age))
+         while (!int.TryParse(Console.ReadLine(), out age)) // permet d'essaye de convertir mais si il marche pas mais va pas planter le codce
          {
             Console.WriteLine("Veuillez entrer un nombre valide pour l'âge.");
             Console.Write("Entrez votre âge : ");
