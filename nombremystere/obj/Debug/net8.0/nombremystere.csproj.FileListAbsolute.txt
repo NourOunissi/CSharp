@@ -1,0 +1,15 @@
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\bin\Debug\net8.0\nombremystere.exe
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\bin\Debug\net8.0\nombremystere.deps.json
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\bin\Debug\net8.0\nombremystere.runtimeconfig.json
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\bin\Debug\net8.0\nombremystere.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\bin\Debug\net8.0\nombremystere.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\obj\Debug\net8.0\nombremystere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\obj\Debug\net8.0\nombremystere.AssemblyInfoInputs.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\obj\Debug\net8.0\nombremystere.AssemblyInfo.cs
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\obj\Debug\net8.0\nombremystere.csproj.CoreCompileInputs.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\obj\Debug\net8.0\nombremystere.sourcelink.json
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\obj\Debug\net8.0\nombremystere.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\obj\Debug\net8.0\refint\nombremystere.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\obj\Debug\net8.0\nombremystere.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\obj\Debug\net8.0\nombremystere.genruntimeconfig.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere\obj\Debug\net8.0\ref\nombremystere.dll
