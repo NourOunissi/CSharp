@@ -4,8 +4,8 @@ Console.WriteLine("Nombre mystère");
 
 
 
-
-const int nombreADeviner = 42;
+        
+        const int nombreADeviner = 42;
 
 // boucle pour demander à l'utilisateur 
 int tentative;
@@ -17,9 +17,10 @@ do
     // conv
     if (int.TryParse(saisieUtilisateur, out tentative))
 
-
-
-    {
+    /**if (string input = console.readLine();
+    int saisieUtilisateur = int.Parse(input); )*/
+            
+            {
         // Comparer la tentative avec le nombre à deviner
         if (tentative < nombreADeviner)
         {
@@ -34,7 +35,7 @@ do
             Console.WriteLine("Félicitations ! Vous avez trouvé le nombre.");
         }
     }
-    else
+            else
     {
         Console.WriteLine("Veuillez entrer un nombre entier valide.");
     }
@@ -42,5 +43,3 @@ do
 } while (tentative != nombreADeviner);
 
 Console.ReadLine(); 
-    
-
