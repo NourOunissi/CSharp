@@ -21,3 +21,18 @@ if (discriminant > 0)
     double racineNeg = (-b - Math.Sqrt(discriminant)) / (2 * a);
 
 Console.WriteLine($"Les solutions de l'équation sont : {racinePos} et {racineNeg}");
+
+}
+
+else if (discriminant == 0)
+        {
+            double racineUnique = -b / (2 * a);
+            Console.WriteLine($"L'équation a une solution double : {racineUnique}");
+
+ else
+        {
+            Console.WriteLine("L'équation n'a pas de solution réelle.");
+        }
+
+        Console.ReadLine();
+    }
