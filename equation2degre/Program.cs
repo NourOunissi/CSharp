@@ -16,23 +16,24 @@ double c = Convert.ToDouble(Console.ReadLine());
 double discriminant = b * b - 4 * a * c;
 
 if (discriminant > 0)
-        {
+{
     double racinePos = (-b + Math.Sqrt(discriminant)) / (2 * a);
     double racineNeg = (-b - Math.Sqrt(discriminant)) / (2 * a);
 
-Console.WriteLine($"Les solutions de l'équation sont : {racinePos} et {racineNeg}");
+    Console.WriteLine($"Les solutions de l'équation sont : {racinePos} et {racineNeg}");
 
 }
 
 else if (discriminant == 0)
-        {
-            double racineUnique = -b / (2 * a);
-            Console.WriteLine($"L'équation a une solution double : {racineUnique}");
+{
+    double racineUnique = -b / (2 * a);
+    Console.WriteLine($"L'équation a une solution double : {racineUnique}");
 
- else
-        {
-            Console.WriteLine("L'équation n'a pas de solution réelle.");
-        }
-
-        Console.ReadLine();
+     else
+    {
+        Console.WriteLine("L'équation n'a pas de solution réelle.");
     }
+
+    Console.ReadLine();
+}
+    
