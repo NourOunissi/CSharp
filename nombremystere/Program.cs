@@ -5,8 +5,8 @@ Console.WriteLine("Nombre mystère");
 
        
        
-        Random random = new Random();
-        int nombreADeviner = random.Next(1, 101);
+        Random rand = new Random();
+        int nombreADeviner = rand.Next(1, 101);
 
         // Boucle pour demander à l'utilisateur
         int nombreSaisi;
