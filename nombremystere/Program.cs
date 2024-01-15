@@ -1,45 +1,46 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+
+
 Console.WriteLine("Nombre mystère");
 
+       
+       
+        Random random = new Random();
+        int nombreADeviner = random.Next(1, 101);
 
+        // Boucle pour demander à l'utilisateur
+        int nombreSaisi;
+        bool saisieValide;
 
+        do
+        {
+            Console.Write("Devinez le nombre : ");
+            string saisieUtilisateur = Console.ReadLine();
 
-        
-        const int nombreADeviner = 42;
+            // Conversion de la saisie utilisateur en entier
+            saisieValide = int.TryParse(saisieUtilisateur, out nombreSaisi);
 
-// boucle pour demander à l'utilisateur 
-int tentative;
-do
-{
-    Console.Write("Devinez le nombre : ");
-    string saisieUtilisateur = Console.ReadLine();
-
-    // conv
-    if (int.TryParse(saisieUtilisateur, out tentative))
-
-    /**if (string input = console.readLine();
-    int saisieUtilisateur = int.Parse(input); )*/
-            
+            if (!saisieValide)
             {
-        // Comparer la tentative avec le nombre à deviner
-        if (tentative < nombreADeviner)
-        {
-            Console.WriteLine("Le nombre est plus grand.");
-        }
-        else if (tentative > nombreADeviner)
-        {
-            Console.WriteLine("Le nombre est plus petit.");
-        }
-        else
-        {
-            Console.WriteLine("Félicitations ! Vous avez trouvé le nombre.");
-        }
-    }
-            else
-    {
-        Console.WriteLine("Veuillez entrer un nombre entier valide.");
-    }
+                Console.WriteLine("Veuillez entrer un nombre entier valide.");
+                continue;
+            }
 
-} while (tentative != nombreADeviner);
+          //comparer
+            switch (nombreSaisi.CompareTo(nombreADeviner))
+            {
+                case -1:
+                    Console.WriteLine("Le nombre est plus grand.");
+                    break;
+                case 1:
+                    Console.WriteLine("Le nombre est plus petit.");
+                    break;
+                default:
+                    Console.WriteLine("Félicitations ! Vous avez trouvé le nombre.");
+                    break;
+            }
 
-Console.ReadLine(); 
+        } while (nombreSaisi != nombreADeviner || !saisieValide);
+
+        Console.ReadLine();
+    

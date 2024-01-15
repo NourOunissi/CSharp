@@ -1,1 +1,41 @@
 dotnet new console -n nombremystere
+
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Nombre mystère");
+
+const int NOMBRE_A_DEVINER = 42;
+
+// boucle pour demander à l'utilisateur 
+int nombreSaisi;
+do
+{
+    Console.Write("Devinez le nombre : ");
+    string saisieUtilisateur = Console.ReadLine();
+
+// conv
+    int nombreSaisi = int.Parse(saisieUtilisateur);
+
+    
+
+
+
+    
+
+        // Comparer la tentative avec le nombre à deviner
+        if (nombreSaisi < NOMBRE_A_DEVINER)
+        
+            Console.WriteLine("Le nombre est plus grand.");
+        
+        else if (nombreSaisi > NOMBRE_A_DEVINER)
+        
+            Console.WriteLine("Le nombre est plus petit.");
+        
+        else
+    
+            Console.WriteLine("Félicitations ! Vous avez trouvé le nombre.");
+        
+   
+
+} while (nombreSaisi != NOMBRE_A_DEVINER);
+
+Console.ReadLine();
