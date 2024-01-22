@@ -1,0 +1,15 @@
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\obj\Debug\net8.0\TPCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\obj\Debug\net8.0\TPCalc.AssemblyInfoInputs.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\obj\Debug\net8.0\TPCalc.AssemblyInfo.cs
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\obj\Debug\net8.0\TPCalc.csproj.CoreCompileInputs.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\obj\Debug\net8.0\TPCalc.sourcelink.json
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\bin\Debug\net8.0\TPCalc.exe
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\bin\Debug\net8.0\TPCalc.deps.json
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\bin\Debug\net8.0\TPCalc.runtimeconfig.json
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\bin\Debug\net8.0\TPCalc.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\bin\Debug\net8.0\TPCalc.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\obj\Debug\net8.0\TPCalc.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\obj\Debug\net8.0\refint\TPCalc.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\obj\Debug\net8.0\TPCalc.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\obj\Debug\net8.0\TPCalc.genruntimeconfig.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\TPCalc\obj\Debug\net8.0\ref\TPCalc.dll
