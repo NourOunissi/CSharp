@@ -3,3 +3,13 @@ C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\obj\Debug\net8.0\equation2de
 C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\obj\Debug\net8.0\equation2degre.AssemblyInfo.cs
 C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\obj\Debug\net8.0\equation2degre.csproj.CoreCompileInputs.cache
 C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\obj\Debug\net8.0\equation2degre.sourcelink.json
+C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\bin\Debug\net8.0\equation2degre.exe
+C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\bin\Debug\net8.0\equation2degre.deps.json
+C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\bin\Debug\net8.0\equation2degre.runtimeconfig.json
+C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\bin\Debug\net8.0\equation2degre.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\bin\Debug\net8.0\equation2degre.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\obj\Debug\net8.0\equation2degre.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\obj\Debug\net8.0\refint\equation2degre.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\obj\Debug\net8.0\equation2degre.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\obj\Debug\net8.0\equation2degre.genruntimeconfig.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\equation2degre\obj\Debug\net8.0\ref\equation2degre.dll

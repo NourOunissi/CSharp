@@ -1,0 +1,5 @@
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\nombremystere2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\nombremystere2.AssemblyInfoInputs.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\nombremystere2.AssemblyInfo.cs
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\nombremystere2.csproj.CoreCompileInputs.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\nombremystere2.sourcelink.json

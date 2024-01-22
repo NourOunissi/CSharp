@@ -27,13 +27,14 @@ if (discriminant > 0)
 else if (discriminant == 0)
 {
     double racineUnique = -b / (2 * a);
-    Console.WriteLine($"L'équation a une solution double : {racineUnique}");
-
-     else
-    {
-        Console.WriteLine("L'équation n'a pas de solution réelle.");
-    }
-
-    Console.ReadLine();
+    Console.WriteLine($"L'équation a une solution  : {racineUnique}");
 }
-    
+
+else
+{
+    Console.WriteLine("L'équation n'a pas de solution réelle.");
+}
+
+Console.ReadLine();
+
+
