@@ -27,6 +27,7 @@ if (int.TryParse(nombre, out nombre_choisi))
 
     // Boucle
     while (!trouver)
+    {
         Console.WriteLine("Veuiller rentrer un nombre entre 0 et 1000 :");
     nombre = Console.ReadLine();
 
@@ -37,6 +38,7 @@ if (int.TryParse(nombre, out nombre_choisi))
         if (nombresProposes.Contains(nombre_choisi))
         {
             Console.WriteLine($"Vous avez déjà proposé le nombre {nombre_choisi}. Essayez à nouveau.");
+
             continue; // Revenir au début de la boucle
         }
 
@@ -63,10 +65,10 @@ if (int.TryParse(nombre, out nombre_choisi))
                 break;
         }
     }
+    }
 
     Console.WriteLine($"Vous avez réussi en {nb_essais} essais !");
 }
 
 Console.WriteLine($"Vous avez réussi en {nb_essais} essais !");
-Console.WriteLine("Nombres déjà proposés : " + string.Join(", ", nombresProposes));
     

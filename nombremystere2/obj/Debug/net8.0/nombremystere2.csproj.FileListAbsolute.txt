@@ -3,3 +3,13 @@ C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\nombremyste
 C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\nombremystere2.AssemblyInfo.cs
 C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\nombremystere2.csproj.CoreCompileInputs.cache
 C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\nombremystere2.sourcelink.json
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\bin\Debug\net8.0\nombremystere2.exe
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\bin\Debug\net8.0\nombremystere2.deps.json
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\bin\Debug\net8.0\nombremystere2.runtimeconfig.json
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\bin\Debug\net8.0\nombremystere2.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\bin\Debug\net8.0\nombremystere2.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\nombremystere2.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\refint\nombremystere2.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\nombremystere2.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\nombremystere2.genruntimeconfig.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\nombremystere2\obj\Debug\net8.0\ref\nombremystere2.dll
