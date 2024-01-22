@@ -1,0 +1,5 @@
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\poo.AssemblyInfoInputs.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\poo.AssemblyInfo.cs
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\poo.csproj.CoreCompileInputs.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\poo.sourcelink.json
