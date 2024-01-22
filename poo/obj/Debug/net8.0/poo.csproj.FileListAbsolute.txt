@@ -3,3 +3,13 @@ C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\poo.AssemblyInfoInputs
 C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\poo.AssemblyInfo.cs
 C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\poo.csproj.CoreCompileInputs.cache
 C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\poo.sourcelink.json
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\bin\Debug\net8.0\poo.exe
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\bin\Debug\net8.0\poo.deps.json
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\bin\Debug\net8.0\poo.runtimeconfig.json
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\bin\Debug\net8.0\poo.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\bin\Debug\net8.0\poo.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\poo.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\refint\poo.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\poo.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\poo.genruntimeconfig.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\poo\obj\Debug\net8.0\ref\poo.dll
