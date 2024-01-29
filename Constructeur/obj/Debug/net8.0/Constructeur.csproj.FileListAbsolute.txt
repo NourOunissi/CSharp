@@ -1,0 +1,15 @@
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\obj\Debug\net8.0\Constructeur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\obj\Debug\net8.0\Constructeur.AssemblyInfoInputs.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\obj\Debug\net8.0\Constructeur.AssemblyInfo.cs
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\obj\Debug\net8.0\Constructeur.csproj.CoreCompileInputs.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\obj\Debug\net8.0\Constructeur.sourcelink.json
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\bin\Debug\net8.0\Constructeur.exe
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\bin\Debug\net8.0\Constructeur.deps.json
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\bin\Debug\net8.0\Constructeur.runtimeconfig.json
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\bin\Debug\net8.0\Constructeur.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\bin\Debug\net8.0\Constructeur.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\obj\Debug\net8.0\Constructeur.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\obj\Debug\net8.0\refint\Constructeur.dll
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\obj\Debug\net8.0\Constructeur.pdb
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\obj\Debug\net8.0\Constructeur.genruntimeconfig.cache
+C:\Users\Ounis\Documents\SLAM2023\C#\Constructeur\obj\Debug\net8.0\ref\Constructeur.dll
